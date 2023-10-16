@@ -1,0 +1,60 @@
+body, h1, h2, p, ul, li, table {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style header */
+header {
+    background-color: #f5cd92;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style navigation menu */
+nav ul {
+    background-color: #8f6c3e;
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+/* Style sections */
+section {
+    margin: 20px;
+    padding: 20px;
+    background-color: #f4f4f4;
+}
+
+/* Style table */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #333;
+    padding: 10px;
+}
+
+/* Style footer */
+footer {
+    background-color: #f4f4f4;
+    color: #868686;
+    text-align: center;
+    padding: 10px;
+}
+body {
+    background-image: url('Gambar4.jpg');
+    background-size: 800px 533px;
+}
